@@ -1,0 +1,13 @@
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.logic\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.logic.csproj.AssemblyReference.cache
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.logic\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.logic\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.logic.AssemblyInfoInputs.cache
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.logic\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.logic.AssemblyInfo.cs
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.logic\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.logic.csproj.CoreCompileInputs.cache
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.logic\bin\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.logic.deps.json
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.logic\bin\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.logic.dll
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.logic\bin\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.logic.pdb
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.logic\bin\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.data.dll
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.logic\bin\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.data.pdb
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.logic\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.logic.csproj.CopyComplete
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.logic\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.logic.dll
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.logic\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.logic.pdb

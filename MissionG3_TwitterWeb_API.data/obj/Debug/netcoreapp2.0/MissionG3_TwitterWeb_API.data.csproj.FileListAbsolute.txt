@@ -1,0 +1,10 @@
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.data\bin\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.data.deps.json
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.data\bin\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.data.dll
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.data\bin\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.data.pdb
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.data\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.data.csproj.AssemblyReference.cache
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.data\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.data\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.data.AssemblyInfoInputs.cache
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.data\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.data.AssemblyInfo.cs
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.data\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.data.csproj.CoreCompileInputs.cache
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.data\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.data.dll
+D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.data\obj\Debug\netcoreapp2.0\MissionG3_TwitterWeb_API.data.pdb

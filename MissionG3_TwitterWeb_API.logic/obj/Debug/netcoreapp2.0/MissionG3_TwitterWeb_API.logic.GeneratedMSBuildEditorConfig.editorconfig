@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = MissionG3_TwitterWeb_API.logic
+build_property.ProjectDir = D:\Projects-2\Angular_Docker\MissionG3_TwitterWeb_API\MissionG3_TwitterWeb_API.logic\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
